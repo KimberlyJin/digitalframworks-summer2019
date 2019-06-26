@@ -1,6 +1,6 @@
 # Digital Frameworks Assignment 1
 
-_by Kimberly Jin_
+*by Kimberly Jin*
 
 This is the body of the text.
 
